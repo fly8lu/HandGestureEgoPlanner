@@ -1,0 +1,2 @@
+rosbridge_suite/rosapi:rosbridge_suite/rosbridge_library:rosbridge_suite/rosbridge_msgs:rosbridge_suite/rosbridge_server:rosbridge_suite/rosbridge_suite:uav_client:uav_server:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/amov/uav_ws/devel -DCMAKE_INSTALL_PREFIX=/home/amov/uav_ws/install -G Unix Makefiles
